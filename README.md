@@ -8,7 +8,6 @@
 <body>
     <h1>Strona główna</h1>
 
-    <!-- Góra strony -->
     <nav>
         <a href="poczta_nazwisko.html">Link do poczty</a><br>
         <a href="plik1.zip">Link do ściągania pliku</a><br>
@@ -19,7 +18,6 @@
         <a href="formularz_nazwisko.html">Link do strony zawierającej formularz</a><br>
     </nav>
 
-    <!-- Wypełnienie strony -->
     <div id="start">
         <p>Tu zaczyna się tekst...</p>
     </div>
@@ -30,7 +28,6 @@
         <p>Tu kończy się tekst...</p>
     </div>
 
-    <!-- Środek strony -->
     <nav>
         <a href="poczta_nazwisko.html">Link do poczty</a><br>
         <a href="plik1_nazwisko.html">Link do ściągania pliku</a><br>
@@ -40,7 +37,6 @@
         <a href="formularz_nazwisko.html">Link do strony zawierającej formularz</a><br>
     </nav>
 
-    <!-- Dół strony -->
     <nav>
         <a href="poczta_nazwisko.html">Link do poczty</a><br>
         <a href="plik1_nazwisko.html">Link do ściągania pliku</a><br>
