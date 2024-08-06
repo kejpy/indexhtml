@@ -1,5 +1,5 @@
 <nav>
-    <a href="poczta_nazwisko.html">Link do poczty</a><br>
+    <a href="https://kejpy.github.io/poczta/">Link do poczty</a><br>
     <a href="plik1.zip" download>Link do ściągania pliku</a><br>
     <a href="#start">Link początek tekstu</a><br>
     <a href="#srodek">Link do środka tekstu</a><br>
@@ -19,7 +19,7 @@
 </div>
 
 <nav>
-    <a href="poczta_nazwisko.html">Link do poczty</a><br>
+    <a href="https://kejpy.github.io/poczta/">Link do poczty</a><br>
     <a href="plik1.zip" download>Link do ściągania pliku</a><br>
     <a href="#start">Link początek tekstu</a><br>
     <a href="#koniec">Link do końca tekstu</a><br>
@@ -28,7 +28,7 @@
 </nav>
 
 <nav>
-    <a href="poczta_nazwisko.html">Link do poczty</a><br>
+    <a href="https://kejpy.github.io/poczta/">Link do poczty</a><br>
     <a href="plik1.zip" download>Link do ściągania pliku</a><br>
     <a href="#start">Link początek tekstu</a><br>
     <a href="#srodek">Link do środka tekstu</a><br>
