@@ -5,7 +5,7 @@
     <a href="#srodek">Link do środka tekstu</a><br>
     <a href="#koniec">Link do końca tekstu</a><br>
     <a href="https://kejpy.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
-    <a href="formularz_nazwisko.html">Link do strony zawierającej formularz</a><br>
+    <a href="https://kejpy.github.io/formularz/">Link do strony zawierającej formularz</a><br>
 </nav>
 
 <div id="start">
@@ -24,7 +24,7 @@
     <a href="#start">Link początek tekstu</a><br>
     <a href="#koniec">Link do końca tekstu</a><br>
     <a href="https://kejpy.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
-    <a href="formularz_nazwisko.html">Link do strony zawierającej formularz</a><br>
+    <a href="https://kejpy.github.io/formularz/">Link do strony zawierającej formularz</a><br>
 </nav>
 
 <nav>
@@ -33,5 +33,5 @@
     <a href="#start">Link początek tekstu</a><br>
     <a href="#srodek">Link do środka tekstu</a><br>
     <a href="https://kejpy.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
-    <a href="formularz_nazwisko.html">Link do strony zawierającej formularz</a><br>
+    <a href="https://kejpy.github.io/formularz/">Link do strony zawierającej formularz</a><br>
 </nav>
