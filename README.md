@@ -4,7 +4,7 @@
     <a href="#start">Link początek tekstu</a><br>
     <a href="#srodek">Link do środka tekstu</a><br>
     <a href="#koniec">Link do końca tekstu</a><br>
-    <a href="kejpy.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
+    <a href="https://kejpy.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
     <a href="formularz_nazwisko.html">Link do strony zawierającej formularz</a><br>
 </nav>
 
@@ -23,7 +23,7 @@
     <a href="plik1.zip" download>Link do ściągania pliku</a><br>
     <a href="#start">Link początek tekstu</a><br>
     <a href="#koniec">Link do końca tekstu</a><br>
-    <a href="kejpy.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
+    <a href="https://kejpy.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
     <a href="formularz_nazwisko.html">Link do strony zawierającej formularz</a><br>
 </nav>
 
@@ -32,6 +32,6 @@
     <a href="plik1.zip" download>Link do ściągania pliku</a><br>
     <a href="#start">Link początek tekstu</a><br>
     <a href="#srodek">Link do środka tekstu</a><br>
-    <a href="kejpy.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
+    <a href="https://kejpy.github.io/tabela/">Link do strony zawierającej tabelę</a><br>
     <a href="formularz_nazwisko.html">Link do strony zawierającej formularz</a><br>
 </nav>
