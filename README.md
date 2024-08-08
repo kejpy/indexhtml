@@ -54,8 +54,8 @@
             </td>
             <td width="18%" align="center">
                 <b>Prawe menu</b>
-                <img src="mapa.gif" alt="Mapa interaktywna" usemap="#mapa_kowalski">
-                <map name="mapa_kowalski">
+                <img src="mapa1.gif" alt="Mapa interaktywna" usemap="#mapa_kowalski">
+                <map name="mapa_Wawrzyniak-pekar">
                     <area shape="poly" coords="5,5,95,5,50,95" href="plik1.zip" alt="Opcja 1">
                     <area shape="rect" coords="0,100,100,150" href="https://kejpy.github.io/indexhtml/tabela.html" target="obszar_glowny" alt="Opcja 2">
                     <area shape="circle" coords="50,200,25" href="https://kejpy.github.io/indexhtml/formularz.html" target="obszar_glowny" alt="Opcja 3">
