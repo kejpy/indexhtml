@@ -35,7 +35,7 @@
     <table>
         <tr>
             <td colspan="3" align="center">
-                <img src="https://zse.edu.gdansk.pl/pl/pub/zse/logo.svg" alt="Logotyp ZSE Gdańsk">
+                <img src="Logotyp ZSE Gdańsk.jpg" alt="Logotyp ZSE Gdańsk">
                 <h1>To jest nagłówek z logotypem</h1>
             </td>
         </tr>
