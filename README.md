@@ -66,9 +66,9 @@
         </tr> 
         <tr>
             <td colspan="3" align="center">
-                <p><!-- www.DarmowyLicznik.pl -->
+                <p>
 <div class="image-rotator"><div class="rotator-slide" id="rotator-slide-1"><a href="https://www.darmowylicznik.pl/" title="Przejdź na stronę licznika" target="_blank"><img src="https://www.darmowylicznik.pl/licznik.php?id=147594" alt="Darmowy licznik odwiedzin" style="border:0px;" /></a></div></div>
-<!-- END www.DarmowyLicznik.pl --></p>
+    </p>
             </td>
         </tr>
     </table>
