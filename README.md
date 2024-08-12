@@ -28,13 +28,16 @@
         .logo-container {
             text-align: center;
         }
+        .logo {
+            margin-left: 20%; /* Przesunięcie w prawo o 20% szerokości kontenera */
+        }
     </style>
 </head>
 <body>
     <table>
         <tr>
             <td colspan="3" class="logo-container">
-                <img src="Logotyp ZSE Gdańsk.jpg" alt="Logotyp ZSE Gdańsk">
+                <img src="Logotyp ZSE Gdańsk.jpg" alt="Logotyp ZSE Gdańsk" class="logo">
             </td>
         </tr>
         <tr>
