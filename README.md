@@ -1,4 +1,3 @@
-
 <html lang="pl">
 <head>
     <meta charset="utf-8">
@@ -17,9 +16,6 @@
             border: 1px solid black;
             padding: 10px;
         }
-        h1, p {
-            margin: 0;
-        }
         iframe {
             border: 0;
             width: 100%;
@@ -29,14 +25,16 @@
             max-width: 100%;
             height: auto;
         }
+        .logo-container {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
     <table>
         <tr>
-            <td colspan="3" align="center">
+            <td colspan="3" class="logo-container">
                 <img src="Logotyp ZSE Gdańsk.jpg" alt="Logotyp ZSE Gdańsk">
-                <h1>To jest nagłówek z logotypem</h1>
             </td>
         </tr>
         <tr>
