@@ -61,7 +61,7 @@
                     <area shape="rect" coords="0,100,100,150" href="https://kejpy.github.io/tabela/" target="obszar_glowny" alt="Opcja 2">
                     <area shape="circle" coords="50,200,25" href="https://kejpy.github.io/formularz/" target="obszar_glowny" alt="Opcja 3">
                     <area shape="poly" coords="5,230,95,230,50,290" href="mailto:kacper.wawrzyniakpekar@gmail.com" alt="Opcja 4">
-                    <area shape="rect" coords="0,300,100,350" href="z1_z6_Wawrzyniak-Pekar.html" target="obszar_glowny" alt="Opcja 5">
+                    <area shape="rect" coords="0,300,100,350" href="https://kacperwawrzyniak-pekar.github.io/index/" target="obszar_glowny" alt="Opcja 5">
                 </map>
             </td>
         </tr> 
