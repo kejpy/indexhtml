@@ -1,4 +1,4 @@
-<html lang="pl">
+<html lang="pl"> q
 <head>
     <meta charset="utf-8">
     <title>Kompletny Layout Strony z Mapą</title>
